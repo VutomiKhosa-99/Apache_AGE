@@ -30,8 +30,8 @@
 
 Note:
 
-> Make sure you have GCC or any C99 compliant compiler installed on your system before running the above commands.
+    > Make sure you have GCC or any C99 compliant compiler installed on your system before running the above commands.
 
-> You can also use an IDE like Visual Studio Code or Eclipse to run the program and test cases with proper debugging support.
+    > You can also use an IDE like Visual Studio Code or Eclipse to run the program and test cases with proper debugging support.
 
-> The program is designed to output the fibonacci sequence based on the arithmetic operation specified in the TypeTag enumeration. As stated before the fibonacci sequence is a mathematical definition and the operation of the sequence can not be altered.
+    > The program is designed to output the fibonacci sequence based on the arithmetic operation specified in the TypeTag enumeration. As stated before the fibonacci sequence is a mathematical definition and the operation of the sequence can not be altered.
