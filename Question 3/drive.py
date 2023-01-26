@@ -29,6 +29,6 @@ response = {
     "data": json.loads(json_data),
 }
 response_json = json.dumps(response)
-print(response)
+print(response_json)
 
 
